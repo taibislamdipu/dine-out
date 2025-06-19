@@ -11,9 +11,6 @@ export default function Header() {
           <span className="text-primary">Dine</span>Out
         </h1>
       </div>
-      {/* <div className="flex items-center">
-        <img src="./assets/user-icon.svg" className="h-10" />
-      </div> */}
     </nav>
   );
 }
